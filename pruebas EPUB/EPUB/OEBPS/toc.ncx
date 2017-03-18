@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+    <head>
+        <meta content="Prueba Fanzine digital v0.0.0" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Prueba Fanzine digital</text>
+    </docTitle>
+    <docAuthor>
+        <text>Perro Triste</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Portada</text></navLabel><content src="xhtml/01-portada.xhtml"/></navPoint>
+        <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Portadilla</text></navLabel><content src="xhtml/02-portadilla.xhtml"/></navPoint>
+        <navPoint id="navPoint-3" playOrder="3"><navLabel><text>Notas de edición</text></navLabel><content src="xhtml/03-notasdeedicion.xhtml"/></navPoint>
+        <navPoint id="navPoint-4" playOrder="4"><navLabel><text>Hugo Caro 1</text></navLabel><content src="xhtml/04-capitulo01-1.xhtml"/></navPoint>
+        <navPoint id="navPoint-5" playOrder="4"><navLabel><text>Hugo Caro 2</text></navLabel><content src="xhtml/05-capitulo01-2.xhtml"/></navPoint>
+        <navPoint id="navPoint-6" playOrder="4"><navLabel><text>Hugo Caro 3</text></navLabel><content src="xhtml/05-capitulo01-3.xhtml"/></navPoint>
+    </navMap>
+</ncx>
